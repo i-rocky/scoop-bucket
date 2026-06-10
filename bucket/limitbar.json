@@ -1,0 +1,17 @@
+{
+    "version": "0.1.0",
+    "description": "Always-visible usage meter for LLM rate-limit windows.",
+    "homepage": "https://i-rocky.github.io/limitbar/",
+    "license": "MIT",
+    "url": "https://github.com/i-rocky/limitbar/releases/download/v0.1.0/limitbar-windows-x86_64-v0.1.0.zip",
+    "hash": "984dcc3cd4889add119d96da19a84a51e98ef8e4d49c2b670133f5a77b313a8b",
+    "bin": "limitbar.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/i-rocky/limitbar/releases/download/v$version/limitbar-windows-x86_64-v$version.zip",
+        "hash": {
+            "url": "https://github.com/i-rocky/limitbar/releases/download/v$version/SHA256SUMS.txt",
+            "regex": "$sha256\\s+limitbar-windows-x86_64-v$version\\.zip"
+        }
+    }
+}
