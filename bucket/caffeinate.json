@@ -4,7 +4,7 @@
     "homepage": "https://github.com/i-rocky/caffeinate",
     "license": "MIT",
     "url": "https://github.com/i-rocky/caffeinate/releases/download/v0.1.1/caffeinate-windows-x86_64-v0.1.1.zip",
-    "hash": "d3edf62a105ee43be448b4b98e4066faca38914f8ab3fecf7f434a46aabbdc18",
+    "hash": "c1887c9b5d88fa3c78fd46c246393dd5f389bed9a0e04cd9dc14ebd857d673b6",
     "bin": "caffeinate.exe",
     "checkver": "github",
     "autoupdate": {

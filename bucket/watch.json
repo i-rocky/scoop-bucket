@@ -4,7 +4,7 @@
     "homepage": "https://github.com/i-rocky/watch",
     "license": "MIT",
     "url": "https://github.com/i-rocky/watch/releases/download/v0.1.0/watch-x86_64-pc-windows-msvc.zip",
-    "hash": "0f18af756f2fb2b2fee7eedef10926d5424ab80925cec87c4493f7ec4646afed",
+    "hash": "14e5c28e8b48d89c1f745c83e5e8b3cbc95a27fd93ae378ab22616e2b7709fb8",
     "bin": "watch.exe",
     "checkver": "github",
     "autoupdate": {

@@ -4,7 +4,7 @@
     "homepage": "https://github.com/i-rocky/uuid",
     "license": "MIT",
     "url": "https://github.com/i-rocky/uuid/releases/download/v0.1.0/uuid-windows-x86_64-v0.1.0.zip",
-    "hash": "a6e3339a2c4d23a0dcdc598964c690aff195e91c8f18b77f9e06ef07c84e0695",
+    "hash": "b81ce214be3a836fbd4a4ee90c03434192711d6695bf437a7f5b0b9c3a272afb",
     "bin": "uuidgen.exe",
     "checkver": "github",
     "autoupdate": {

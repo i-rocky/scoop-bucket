@@ -1,10 +1,10 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "lsof-style socket and process inspection for Windows.",
     "homepage": "https://github.com/i-rocky/lsof",
     "license": "MIT",
-    "url": "https://github.com/i-rocky/lsof/releases/download/v0.1.0/lsof-windows-x86_64-v0.1.0.zip",
-    "hash": "99363fa011539f331747f2e2579999253d8cf562085912d7c0a7378ed8f35d9e",
+    "url": "https://github.com/i-rocky/lsof/releases/download/v0.2.0/lsof-windows-x86_64-v0.2.0.zip",
+    "hash": "06750943d16d4eddd0bc0faf5c66216d3d6cd5ebbbd5cc6f6e26ad9e473484ef",
     "bin": "lsof.exe",
     "checkver": "github",
     "autoupdate": {
