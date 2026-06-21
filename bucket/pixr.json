@@ -1,10 +1,10 @@
 {
-    "version": "1.0.11",
+    "version": "1.0.12",
     "description": "Fast image conversion and resizing CLI.",
     "homepage": "https://github.com/i-rocky/pixr",
     "license": "MIT",
-    "url": "https://github.com/i-rocky/pixr/releases/download/v1.0.11/pixr-windows-x86_64-v1.0.11.zip",
-    "hash": "0e0198b458e5ac581758dce01e7ab8541203b3bea73e5486159ed8708e8303e8",
+    "url": "https://github.com/i-rocky/pixr/releases/download/v1.0.12/pixr-windows-x86_64-v1.0.12.zip",
+    "hash": "c98f3b51501f77b2412cfca3f9d6d1a816ff0b92578532c9f24992900cef99cc",
     "bin": "pixr.exe",
     "checkver": "github",
     "autoupdate": {
